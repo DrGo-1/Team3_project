@@ -10,6 +10,42 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Adjust",
+			"Enabled": true
+		},
+		{
+			"Name": "ADOSupport",
+			"Enabled": true
+		},
+		{
+			"Name": "AESHandlerComponent",
+			"Enabled": true
+		},
+		{
+			"Name": "AESGCMHandlerComponent",
+			"Enabled": true
+		},
+		{
+			"Name": "AlembicHairImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "AjaMedia",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/91088fb17fb04b6b9eda41aaf8fda21e",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "AnalyticsBlueprintLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationBudgetAllocator",
+			"Enabled": true
 		}
 	]
 }
